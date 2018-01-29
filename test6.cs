@@ -11,7 +11,7 @@ namespace UseArrayList
             ArrayList list = new ArrayList();
             list.Add("C#编程词典");
             list.Add("C#开发实战宝典");
-            foreach(string str in list)
+            foreach (string str in list)
             {
                 Console.WriteLine(str);
             }

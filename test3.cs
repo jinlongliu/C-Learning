@@ -6,7 +6,7 @@ namespace UseReference
 {
     class Program
     {
-        class C 
+        class C
         {
             public int Value = 0;
         }
