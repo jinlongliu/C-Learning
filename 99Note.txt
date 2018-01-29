@@ -1,0 +1,9 @@
+csc /out:D:\01workspace\01C\EXE\HelloWorld.exe D:\01workspace\01C\C-Learning\helloworld.cs
+csc /out:D:\01workspace\01C\EXE\test1.exe D:\01workspace\01C\C-Learning\test1.cs
+csc /out:D:\01workspace\01C\EXE\test2.exe D:\01workspace\01C\C-Learning\test2.cs
+csc /out:D:\01workspace\01C\EXE\test3.exe D:\01workspace\01C\C-Learning\test3.cs
+csc /out:D:\01workspace\01C\EXE\test4.exe D:\01workspace\01C\C-Learning\test4.cs
+csc /out:D:\01workspace\01C\EXE\test5.exe D:\01workspace\01C\C-Learning\test5.cs
+csc /out:D:\01workspace\01C\EXE\test6.exe D:\01workspace\01C\C-Learning\test6.cs
+  
+PDF Line 155
